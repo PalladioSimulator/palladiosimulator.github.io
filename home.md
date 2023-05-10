@@ -12,7 +12,7 @@ header:
   caption: "Image created with [DALL-E](https://openai.com/product/dall-e-2)"
 excerpt: "New Palladio release 5.2.0 based on Eclipse 2022-12 with Java 17 available."
 intro:
-  - excerpt: '<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zWOIm5xd_OQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+  - excerpt: 'https://www.youtube-nocookie.com/embed/zWOIm5xd_OQ'
 feature_row:
   - image_path: /images/DALL_E_Placeholder_2.png
     image_caption: "Image created with [DALL-E](https://openai.com/product/dall-e-2)"
