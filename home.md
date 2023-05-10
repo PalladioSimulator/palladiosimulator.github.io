@@ -2,9 +2,6 @@
 title: "The Palladio Approach"
 layout: splash
 permalink: /
-redirect_from:
-  - /home
-  - /index
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
