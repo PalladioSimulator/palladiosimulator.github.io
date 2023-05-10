@@ -10,3 +10,16 @@ subtitle: "The Palladio Approach"
 name: "The Palladio Approach"
 description: "Palladio. The Quality Software People."
 breadcrumbs: true
+ermalink: /:categories/:title/
+paginate: 0
+paginate_path: /page:num/
+timezone: # "Europe/Berlin"
+words_per_minute: 200
+comments:
+  provider: false
+atom_feed:
+  path: blank
+  hide: true
+search: false
+analytics:
+  provider: false
