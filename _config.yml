@@ -2,3 +2,11 @@ remote_theme: mmistakes/minimal-mistakes@4.24.0
 plugins:
 - jekyll-remote-theme
 - jekyll-include-cache
+
+locale: "en-US"
+title: "Modeling and Simulating Software Architectures"
+title_separator: "-"
+subtitle: "The Palladio Approach"
+name: "The Palladio Approach"
+description: "Palladio. The Quality Software People."
+breadcrumbs: true
