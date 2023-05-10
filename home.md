@@ -17,7 +17,8 @@ feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
     title: "Free Tools"
-    excerpt: "We offer free tools for analysing the quality of your software: Performance, reliability, maintainability Tool downloads & documentation"
+    excerpt: "We offer free tools for analysing the quality of your software: Performance, reliability, maintainability. Tool downloads & documentation"
+    url: "/tools"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
