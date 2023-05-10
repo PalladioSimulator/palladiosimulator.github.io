@@ -1,7 +1,7 @@
 ---
 title: "The Palladio Approach"
 layout: splash
-permalink: /home/
+permalink: /index/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
