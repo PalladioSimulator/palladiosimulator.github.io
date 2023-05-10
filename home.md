@@ -1,7 +1,10 @@
 ---
 title: "The Palladio Approach"
 layout: splash
-permalink: /index/
+permalink: /
+redirect_from:
+  - /home
+  - /index
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -24,8 +27,6 @@ feature_row:
     title: "Consulting for Industry"
     excerpt: "We provide professional consulting and developer training to enhance the quality of your software.Portfolio & industry success stories"
     url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Science and Research"
     excerpt: "We are leading members of the research community in model-based software quality prediction. Research projects & cooperations"
