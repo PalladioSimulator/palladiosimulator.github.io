@@ -1,37 +1,38 @@
-remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# Theme
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Modeling and Simulating Software Architectures"
-title_separator          : "-"
-subtitle                 : "The Palladio Approach"
-name                     : "The Palladio Approach"
-description              : "Palladio. The Quality Software People."
-url                      : # "https://palladiosimulator.github.io/Palladio-Simulator-Website/"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "PalladioSimulator/Palladio-Simulator-Website"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs            : true
-words_per_minute         : 200
+locale: "en-US"
+title: "Modeling and Simulating Software Architectures"
+title_separator: "-"
+subtitle: "The Palladio Approach"
+name: "The Palladio Approach"
+description: "Palladio. The Quality Software People."
+url: # "https://palladiosimulator.github.io/Palladio-Simulator-Website/"
+baseurl: # the subpath of your site, e.g. "/blog"
+repository: # "PalladioSimulator/Palladio-Simulator-Website"
+teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title: # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs: true
+words_per_minute: 200
 comments:
-  provider               : false
+  provider: false
 atom_feed:
-  path                   : blank
-  hide                   : true
-search                   : false
+  path: blank
+  hide: true
+search: false
 analytics:
-  provider               : false
+  provider: false
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name: "Your Name"
+  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio: "I am an **amazing** person."
+  location: "Somewhere"
+  email:
 
 # Site Footer
 footer:
@@ -75,8 +76,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs
-  - /test
 keep_files:
   - .git
   - .svn
@@ -108,7 +107,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: "Europe/Berlin"
+timezone: # "Europe/Berlin"
 
 # Plugins
 plugins:
