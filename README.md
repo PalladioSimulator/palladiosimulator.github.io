@@ -1,4 +1,39 @@
-# Palladio-Simulator-Website
+---
+title: "The Palladio Approach"
+layout: splash
+permalink: /home/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  actions:
+    - label: "Download"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+feature_row:
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Free Tools"
+    excerpt: "We offer free tools for analysing the quality of your software: Performance, reliability, maintainability Tool downloads & documentation"
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "placeholder image 2"
+    title: "Consulting for Industry"
+    excerpt: "We provide professional consulting and developer training to enhance the quality of your software.Portfolio & industry success stories"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "Science and Research"
+    excerpt: "We are leading members of the research community in model-based software quality prediction. Research projects & cooperations"
+---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
 
 ## Advantages
 
