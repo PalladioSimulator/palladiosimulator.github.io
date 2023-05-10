@@ -5,29 +5,30 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /images/DALL_E_Placeholder_1.png
   actions:
     - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
-intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+      url: "https://updatesite.palladio-simulator.com/palladio-bench-product/releases/latest/"
+  caption: "Image created with [DALL-E](https://openai.com/product/dall-e-2)"
+excerpt: "New Palladio release 5.2.0 based on Eclipse 2022-12 with Java 17 available."
+intro:
+  - excerpt: '<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zWOIm5xd_OQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
+  - image_path: /images/DALL_E_Placeholder_2.png
+    image_caption: "Image created with [DALL-E](https://openai.com/product/dall-e-2)"
     title: "Free Tools"
     excerpt: "We offer free tools for analysing the quality of your software: Performance, reliability, maintainability. Tool downloads & documentation"
     url: "/tools"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
+  - image_path: /images/DALL_E_Placeholder_3.png
+    image_caption: "Image created with [DALL-E](https://openai.com/product/dall-e-2)"
     title: "Consulting for Industry"
     excerpt: "We provide professional consulting and developer training to enhance the quality of your software.Portfolio & industry success stories"
-    url: "#test-link"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    url: "/consulting"
+  - image_path: /images/DALL_E_Placeholder_4.png
+  -     image_caption: "Image created with [DALL-E](https://openai.com/product/dall-e-2)"
     title: "Science and Research"
     excerpt: "We are leading members of the research community in model-based software quality prediction. Research projects & cooperations"
+    url: "/science"
 ---
 
 {% include feature_row id="intro" type="center" %}
