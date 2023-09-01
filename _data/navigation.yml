@@ -1,0 +1,13 @@
+main:
+  - title: "Analysis"
+    url: /analysis/
+  - title: "Tools"
+    url: /tools/
+  - title: "Consulting"
+    url: /consulting/
+  - title: "Science"
+    url: /science/
+  - title: "About Palladio"
+    url: /about/
+  - title: "The Book"
+    url: /book/

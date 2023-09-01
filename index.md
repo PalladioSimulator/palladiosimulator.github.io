@@ -1,29 +1,28 @@
 ---
 title: "The Palladio Approach"
 layout: splash
-permalink: /
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /images/DALL_E_Placeholder_1.png
+  overlay_filter: "0.2"
+  overlay_image: /assets/images/palladio_background_wide.png
   actions:
     - label: "Download"
       url: "https://updatesite.palladio-simulator.com/palladio-bench-product/releases/latest/"
-  caption: "Image created with [DALL-E](https://openai.com/product/dall-e-2)"
+  # caption: ""
 excerpt: "New Palladio release 5.2.0 based on Eclipse 2022-12 with Java 17 available."
 feature_row:
-  - image_path: /images/DALL_E_Placeholder_2.png
-    image_caption: "Image created with [DALL-E](https://openai.com/product/dall-e-2)"
+  - image_path: /assets/images/img_feature_tools.jpg
+    #image_caption: ""
     title: "Free Tools"
     excerpt: "We offer free tools for analysing the quality of your software: Performance, reliability, maintainability. Tool downloads & documentation"
     url: "/tools"
-  - image_path: /images/DALL_E_Placeholder_3.png
-    image_caption: "Image created with [DALL-E](https://openai.com/product/dall-e-2)"
+  - image_path: /assets/images/img_feature_consulting.jpg
+    #image_caption: ""
     title: "Consulting for Industry"
     excerpt: "We provide professional consulting and developer training to enhance the quality of your software.Portfolio & industry success stories"
     url: "/consulting"
-  - image_path: /images/DALL_E_Placeholder_4.png
-    image_caption: "Image created with [DALL-E](https://openai.com/product/dall-e-2)"
+  - image_path: /assets/images/img_feature_science.jpg
+    #image_caption: ""
     title: "Science and Research"
     excerpt: "We are leading members of the research community in model-based software quality prediction. Research projects & cooperations"
     url: "/science"
@@ -45,3 +44,5 @@ Decide for Palladio today to
 - Palladio is free tooling, professional consulting, and a well-validated scientific performance and reliability prediction approach.
 - Analyse multiple quality dimensions: Performance, reliability, maintainability, and costs. Balance your software architecture design.
 - Engineering instead of trial and error. No implementation required. No hardware required. Model-driven. Interactive analysis.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zWOIm5xd_OQ?si=FJfm6IljaNChscFZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
