@@ -10,6 +10,8 @@ title_separator: "-"
 subtitle: "The Palladio Approach"
 name: "The Palladio Approach"
 description: "Palladio. The Quality Software People."
+logo: "/assets/images/palladio_logo_small_black.png"
+
 breadcrumbs: true
 permalink: /:categories/:title/
 paginate: 0
