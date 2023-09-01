@@ -27,6 +27,9 @@ search: false
 analytics:
   provider: false
 
+include:
+  - _pages
+
 collections:
   analysis:
     output: true
