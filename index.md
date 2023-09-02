@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/palladio_background_wide.png
   actions:
     - label: "Download"
-      url: "https://updatesite.palladio-simulator.com/palladio-bench-product/releases/latest/"
+      url: "/tools/download"
   # caption: ""
 excerpt: "New Palladio release 5.2.0 based on Eclipse 2022-12 with Java 17 available."
 feature_row:
