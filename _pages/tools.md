@@ -2,6 +2,7 @@
 title: Palladio Tools
 layout: single
 permalink: /tools
+classes: wide
 ---
 
 We have implemented an integrated modelling environment (called Palladio-Bench) based on the Eclipse IDE. It enables developers to create Palladio Component Model (PCM) instances with graphical editors and derive performance, reliability, maintainabilty, and cost metrics from the models using analytical techniques and simulation. The Palladio Component Model (PCM) is implemented using the Eclipse Modeling Framework ([EMF](http://www.eclipse.org/modeling/emf/)).
