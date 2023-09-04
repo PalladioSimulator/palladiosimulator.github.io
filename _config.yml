@@ -30,6 +30,13 @@ analytics:
 include:
   - _pages
 
+footer:
+  links:
+    - label: "Legal Notice"
+      url: "http://www.kit.edu/legals.php"
+    - label: "Privacy Policy"
+      url: "https://www.kit.edu/privacypolicy.php"
+
 collections:
   analysis:
     output: true
