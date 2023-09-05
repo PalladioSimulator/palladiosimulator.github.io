@@ -11,3 +11,5 @@ main:
     url: /about/
   - title: "The Book"
     url: /book/
+  - title: "Contact"
+    url: /contact/
