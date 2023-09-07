@@ -12,11 +12,11 @@ The editors of the Palladio Book are a group of scientists and engineers in acad
 
 The editors of the Palladio Book are a group of scientists and engineers in academia and industry that developed, extended and successfully applied architectural quality simulations and predictions:
 
-- [Prof. Dr. Ralf H. Reussner](https://sdq.ipd.kit.edu/people/ralf-reussner/) — Full Professor of software engineering, Chair of Software Design and Quality at the Karlsruhe Institute of Technology (KIT), Executive Director of the Research Center for Information Technologies (FZI)
-- Prof. Dr.-Ing. Steffen Becker — Full Professor for reliable software systems, Institute of Software Technology, University of Stuttgart
+- [Prof. Dr. Ralf H. Reussner](https://dsis.kastel.kit.edu/staff_ralf_reussner.php) — Full Professor of software engineering, Chair of Software Design and Quality at the Karlsruhe Institute of Technology (KIT), Executive Director of the Research Center for Information Technologies (FZI)
+- [Prof. Dr.-Ing. Steffen Becker](https://www.iste.uni-stuttgart.de/institute/team/Becker-00009/) — Full Professor for reliable software systems, Institute of Software Technology, University of Stuttgart
 - [Dr.-Ing. Jens Happe](https://sdq.ipd.kit.edu/people/jens-happe/) — Senior Researcher at SAP Research and co-founder of the software start-up avenyou
 - [Dr. rer. nat. Robert Heinrich](https://sdq.ipd.kit.edu/people/robert-heinrich/) — Head of Quality-driven System Evolution Research Group at the Chair of Software Design and Quality, Karlsruhe Institute of Technology (KIT)
-- Jun.-Prof. Dr.-Ing. Anne Koziolek — Junior Professor of software engineering and head of the Architecture Driven Requirements Engineering Group at the Karlsruhe Institute of Technology (KIT)
+- [Prof. Dr.-Ing. Anne Koziolek](https://mcse.kastel.kit.edu/staff_Koziolek_Anne.php) — Junior Professor of software engineering and head of the Architecture Driven Requirements Engineering Group at the Karlsruhe Institute of Technology (KIT)
 - [Dr.-Ing. Heiko Koziolek](http://www.koziolek.de/) — Principal Scientist and Global Research Area Coordinator at ABB Corporate Research
 - [Max E. Kramer](https://sdq.ipd.kit.edu/people/alumni/max-e-kramer/) — Scientist at the Chair of Software Design and Quality, Karlsruhe Institute of Technology (KIT)
 - Dr.-Ing. Klaus Krogmann — Manager quality engineering platform with Citrix, GetGo

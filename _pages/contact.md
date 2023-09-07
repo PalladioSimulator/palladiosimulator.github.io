@@ -5,6 +5,10 @@ permalink: /contact
 classes: wide
 ---
 
+Get in touch with the Palladio open source developer community:
+
+palladio-dev(at)lists.kit.edu
+
 ## Research Contact
 
 ![Ralf Reussner](/assets/images/contact/ralf-reussner.jpg){: width="200"}
@@ -26,7 +30,7 @@ Email: sdq-sekretariat(at)kastel.kit.edu
 
 ![Jörg Henss](/assets/images/contact/joerg_henss.jpeg)
 
-Jörg Henss
+[Jörg Henss](https://www.fzi.de/team/joerg-henss/)
 
 FZI – Research Center For Information Technology<br>
 Software Engineering (SE)<br>
@@ -43,7 +47,7 @@ Email: henss(at)fzi.de
 
 ![Steffen Becker](/assets/images/contact/steffen-becker.jpg)
 
-Prof. Dr. Steffen Becker
+[Prof. Dr. Steffen Becker](https://www.iste.uni-stuttgart.de/institute/team/Becker-00009/)
 
 University of Stuttgart<br>
 Institute of Software Technology<br>

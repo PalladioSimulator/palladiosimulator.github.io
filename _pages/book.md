@@ -11,7 +11,7 @@ classes: wide
 
 By [Ralf H. Reussner, Steffen Becker, Jens Happe, Robert Heinrich, Anne Koziolek, Heiko Koziolek, Max Kramer and Klaus Krogmann](/book/authors/)
 
-| [Google Books](https://books.google.de/books?id=QztMDQAAQBAJ&printsec=frontcover) | [Amazon.com](https://www.amazon.com/dp/026203476X) |
+| [Google Books](https://books.google.de/books?id=QztMDQAAQBAJ&printsec=frontcover) | [Amazon.com](https://www.amazon.com/dp/026203476X) | [MIT Press](https://mitpress.mit.edu/9780262034760/modeling-and-simulating-software-architectures/) | [KIT Library](https://publikationen.bibliothek.kit.edu/1000071486) | 
 
 ## Overview
 
