@@ -30,6 +30,9 @@ analytics:
 include:
   - _pages
 
+exclude:
+  - README.md
+
 footer:
   links:
     - label: "Legal Notice"
