@@ -10,8 +10,10 @@ title_separator: "-"
 subtitle: "The Palladio Approach"
 name: "The Palladio Approach"
 description: "Palladio. The Quality Software People."
+logo: "/assets/images/palladio_logo_small_black.png"
+
 breadcrumbs: true
-ermalink: /:categories/:title/
+permalink: /:categories/:title/
 paginate: 0
 paginate_path: /page:num/
 timezone: # "Europe/Berlin"
@@ -24,3 +26,18 @@ atom_feed:
 search: false
 analytics:
   provider: false
+
+include:
+  - _pages
+
+footer:
+  links:
+    - label: "Legal Notice"
+      url: "http://www.kit.edu/legals.php"
+    - label: "Privacy Policy"
+      url: "https://www.kit.edu/privacypolicy.php"
+
+collections:
+  analysis:
+    output: true
+    permalink: /:collection/:path
