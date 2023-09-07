@@ -1,7 +1,7 @@
 ---
 title: Performance Anomalies Detection and Monitoring
 layout: single
-permalink: /consulting/performance
+permalink: /consulting/performance/
 classes: wide
 ---
 

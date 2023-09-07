@@ -1,7 +1,7 @@
 ---
 title: Professional Support Services and Consulting
 layout: single
-permalink: /consulting/support
+permalink: /consulting/support/
 classes: wide
 ---
 

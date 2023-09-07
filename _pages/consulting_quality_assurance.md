@@ -1,7 +1,7 @@
 ---
 title: Quality Assurance
 layout: single
-permalink: /consulting/quality_assurance
+permalink: /consulting/quality_assurance/
 classes: wide
 ---
 

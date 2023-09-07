@@ -1,7 +1,7 @@
 ---
 title: Quality Dimensions
 layout: single
-permalink: /tools/quality_dimensions
+permalink: /tools/quality_dimensions/
 
 gallery:
   - url: /assets/images/tools/quality_dimensions.png

@@ -1,7 +1,7 @@
 ---
 title: Tutorials
 layout: single
-permalink: /tools/tutorials
+permalink: /tools/tutorials/
 ---
 
 On this page you will find a selection of tutorials.

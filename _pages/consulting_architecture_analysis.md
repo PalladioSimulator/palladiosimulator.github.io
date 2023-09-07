@@ -1,7 +1,7 @@
 ---
 title: Architecture Analysis
 layout: single
-permalink: /consulting/architecture_analysis
+permalink: /consulting/architecture_analysis/
 classes: wide
 ---
 

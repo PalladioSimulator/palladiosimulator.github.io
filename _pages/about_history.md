@@ -1,7 +1,7 @@
 ---
 title: History
 layout: single
-permalink: /about/history
+permalink: /about/history/
 classes: wide
 
 gallery:

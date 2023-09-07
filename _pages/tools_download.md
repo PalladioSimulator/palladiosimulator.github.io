@@ -1,7 +1,7 @@
 ---
 title: Download
 layout: single
-permalink: /tools/download
+permalink: /tools/download/
 ---
 
 Palladio is *free* tooling. Download the latest Palladio-Bench release version 5.1.0.

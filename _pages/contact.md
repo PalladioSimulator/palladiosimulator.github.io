@@ -1,7 +1,7 @@
 ---
 title: Contact
 layout: single
-permalink: /contact
+permalink: /contact/
 classes: wide
 ---
 

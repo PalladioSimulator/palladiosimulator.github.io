@@ -1,7 +1,7 @@
 ---
 title: Reference Projects
 layout: single
-permalink: /consulting/references
+permalink: /consulting/references/
 classes: wide
 ---
 

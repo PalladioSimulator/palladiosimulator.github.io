@@ -1,7 +1,7 @@
 ---
 title: Consulting
 layout: single
-permalink: /consulting
+permalink: /consulting/
 classes: wide
 feature_row:
   - image_path: "/assets/images/consulting/feature_architecture_analysis.jpg"

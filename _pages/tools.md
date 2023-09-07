@@ -1,7 +1,7 @@
 ---
 title: Palladio Tools
 layout: single
-permalink: /tools
+permalink: /tools/
 classes: wide
 ---
 

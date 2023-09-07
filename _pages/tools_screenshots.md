@@ -1,7 +1,7 @@
 ---
 title: Screenshots
 layout: single
-permalink: /tools/screenshots
+permalink: /tools/screenshots/
 
 gallery:
   - url: /assets/images/tools/screenshot_overview.png

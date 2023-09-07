@@ -1,7 +1,7 @@
 ---
 title: Palladio Community and Development
 layout: single
-permalink: /about/community
+permalink: /about/community/
 classes: wide
 ---
 

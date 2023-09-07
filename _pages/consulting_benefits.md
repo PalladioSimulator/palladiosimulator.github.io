@@ -1,7 +1,7 @@
 ---
 title: Business Benefits
 layout: single
-permalink: /consulting/benefits
+permalink: /consulting/benefits/
 classes: wide
 ---
 

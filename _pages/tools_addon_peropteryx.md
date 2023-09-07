@@ -1,7 +1,7 @@
 ---
 title: "Addon: PerOpteryx"
 layout: single
-permalink: /tools/peropteryx 
+permalink: /tools/peropteryx/
 ---
 
 **PerOpteryx** is automated design optimisation for Palladio. PerOpteryx is the name for a set of [Eclipse](http://en.wikipedia.org/wiki/Eclipse_%28software%29) plugins for the Palladio-Bench to automatically improve Palladio Component Model instances for performance, reliability, and cost properties. The approach is tailored to assists software architects in deriving and identifying optimal design decisions.

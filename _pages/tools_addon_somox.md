@@ -1,7 +1,7 @@
 ---
 title: "Addon: SoMoX"
 layout: single
-permalink: /tools/somox 
+permalink: /tools/somox/
 ---
 
 **SoMoX** reverse engineering SoMoX extracts Palladio Component Model instances from source code

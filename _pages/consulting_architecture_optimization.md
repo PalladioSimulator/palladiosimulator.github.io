@@ -1,7 +1,7 @@
 ---
 title: Software Architecture Optimization 
 layout: single
-permalink: /consulting/architecture_optimization
+permalink: /consulting/architecture_optimization/
 classes: wide
 ---
 

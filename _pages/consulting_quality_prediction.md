@@ -1,7 +1,7 @@
 ---
 title: Quality Prediction
 layout: single
-permalink: /consulting/quality_prediction
+permalink: /consulting/quality_prediction/
 classes: wide
 ---
 
