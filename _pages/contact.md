@@ -5,6 +5,10 @@ permalink: /contact
 classes: wide
 ---
 
+Get in touch with the Palladio open source developer community:
+
+palladio-dev(at)lists.kit.edu
+
 ## Research Contact
 
 ![Ralf Reussner](/assets/images/contact/ralf-reussner.jpg){: width="200"}
