@@ -15,4 +15,5 @@ Open source activities are bundled in the Palladio Developer Wiki.
 - [Palladio Developer Wiki](http://sdqweb.ipd.kit.edu/wiki/Palladio_Component_Model)
 - [Palladio Bugtracker](http://www.palladio-simulator.com/jira/)
 - [Palladio FAQ](http://sdqweb.ipd.kit.edu/faq)
+- [Symposium on Software Performance](https://www.performance-symposium.org/)
 - [Source Code Repository](/tools/download/#palladio-source-code-access)
