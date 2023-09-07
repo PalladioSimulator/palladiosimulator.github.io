@@ -36,6 +36,9 @@ footer:
       url: "http://www.kit.edu/legals.php"
     - label: "Privacy Policy"
       url: "https://www.kit.edu/privacypolicy.php"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/PalladioSimulator"
 
 collections:
   analysis:
