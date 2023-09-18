@@ -51,7 +51,7 @@ Our team is here for you:
 You wish to apply state of the art technologies in your software development process? Our trainers can bring by the latest tools and methods to your teams.
 
 - State-of-the-art technologies: Performance, reliabiliy, maintainability, and cost analysis, meta-modeling, model-driven development, software maintenance, and software quality assurace will be no longer vague for you!
-- Palladio integrates with other complementing tools like [SISSy](http://sissy.sourceforge.net/), [Q-ImPrESS](http://www.q-impress.eu/), and [Horus](http://www.horus.biz/). Learn to use them on site!
+- Palladio integrates with other complementing tools like [SISSy](http://sissy.sourceforge.net/), Q-ImPrESS, and [Horus](http://www.horus.biz/). Learn to use them on site!
 
 
 ## Custom Features and Extensions
