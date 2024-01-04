@@ -4,12 +4,12 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /assets/images/palladio_background_wide.png
+  overlay_image: /assets/images/villa-bg.jpg
   actions:
     - label: "Download"
       url: "/tools/download"
   # caption: ""
-excerpt: "New Palladio release 5.2.0 based on Eclipse 2022-12 with Java 17 available."
+excerpt: "New Palladio release 5.2.0 based on Eclipse 2023-03 with Java 17 available."
 feature_row:
   - image_path: /assets/images/img_feature_tools.jpg
     #image_caption: ""
