@@ -4,7 +4,7 @@ layout: single
 permalink: /tools/download/
 ---
 
-Palladio is *free* tooling. Download the latest Palladio-Bench release version 5.2.0.
+Palladio is *free* tooling. Download the latest Palladio-Bench release version 5.2.1.
 
 After downloading the Palladio-Bench, you can have a look at our [screencasts](/tools/screenshots) which show you, how to run your first simulation.
 
@@ -24,7 +24,7 @@ To install a drop, simply unzip it. Please don't use the built-in ZIP functional
 You might find the following additional resources on Palladio helpful:
 
 - [Installation instructions, Linux installation, and other download options including an Eclipse update site](http://sdqweb.ipd.kit.edu/wiki/PCM_stable)
-- [Palladio-Bench 5.2.0 release notes](http://sdqweb.ipd.kit.edu/wiki/PCM_stable)
+- [Palladio-Bench 5.2.1 release notes](http://sdqweb.ipd.kit.edu/wiki/PCM_stable)
 - [Additional LQN Solvers/Simulation](http://sdqweb.ipd.kit.edu/wiki/PCM2LQN)
 - [Palladio FAQ database](http://sdqweb.ipd.kit.edu/faq/)
 - [Palladio developer wiki](http://sdqweb.ipd.kit.edu/wiki/Palladio_Component_Model)

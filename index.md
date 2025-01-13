@@ -9,7 +9,7 @@ header:
     - label: "Download"
       url: "/tools/download"
   # caption: ""
-excerpt: "New Palladio release 5.2.0 based on Eclipse 2023-03 with Java 17 available."
+excerpt: "New Palladio release 5.2.1 based on Eclipse 2023-03 with Java 17 available."
 feature_row:
   - image_path: /assets/images/img_feature_tools.jpg
     #image_caption: ""
