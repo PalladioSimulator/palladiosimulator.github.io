@@ -26,9 +26,23 @@ feature_row:
     title: "Science and Research"
     excerpt: "We are leading members of the research community in model-based software quality prediction. Research projects & cooperations"
     url: "/science"
+
+feature_row2:
+  - image_path: /assets/images/kit_logo_deutsch.png
+    #alt: "Karlsruhe Institute of Technology"
+    #title: "Karlsruhe Institute of Technology"
+  - image_path: /assets/images/fzi_logo.png
+    #alt: "FZI Research Center for Information Technology"
+    #title: "FZI Research Center for Information Technology"
+  - image_path: /assets/images/unistuttgart_logo_deutsch_cmyk-01.png
+    #alt: "University of Stuttgart"
+    #title: "University of Stuttgart"
+  - image_path: /assets/images/uniulm_logo_deutsch.png
+    #alt: "Ulm University"
+    #title: "Ulm University"
 ---
 
-{% include feature_row %}
+{% include feature_row id="feature_row" %}
 
 ## Advantages
 
@@ -46,3 +60,9 @@ Decide for Palladio today to
 - Engineering instead of trial and error. No implementation required. No hardware required. Model-driven. Interactive analysis.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zWOIm5xd_OQ?si=FJfm6IljaNChscFZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Current Contributors
+
+{% include feature_row id="feature_row2" %}
+
+
