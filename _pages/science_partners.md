@@ -15,6 +15,7 @@ classes: wide
 - Karlsruhe Institute of Technology, Karlsruhe, Germany
 - University of Chemnitz, Chemnitz, Germany
 - University of Stuttgart, Stuttgart, Germany
+- Ulm University, Ulm, Germany
 
 ## Research Partners
 
@@ -26,3 +27,4 @@ classes: wide
 - Karlsruhe Institute of Technology, Karlsruhe, Germany
 - University of Chemnitz, Chemnitz, Germany
 - University of Stuttgart, Stuttgart, Germany
+- Ulm University, Ulm, Germany

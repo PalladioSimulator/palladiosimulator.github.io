@@ -18,7 +18,7 @@ From a scientific perspective, Palladio comprises
 
 More information on the scientific background of Palladio and developer information can be found in the [Palladio Developer Wiki](http://sdqweb.ipd.kit.edu/wiki/Palladio).
 
-The development of the Palladio started [back in 2003](/about/history/) at the University of Oldenburg, and is nowadays developed at [Karlsruhe Institute of Technology (KIT)](http://www.kit.edu/english/), [FZI Research Center for Information Technology](http://www.fzi.de/en), and [Paderborn University](http://www.cs.uni-paderborn.de/). Further [scientific cooperations](/science/partners/#scientific-cooperations) and [research partners](/science/partners/#research-partners) contribute in terms of scientific exchange and tool development.
+The development of the Palladio started [back in 2003](/about/history/) at the University of Oldenburg, and is nowadays developed at [Karlsruhe Institute of Technology (KIT)](http://www.kit.edu/english/), [FZI Research Center for Information Technology](http://www.fzi.de/en), [University of Stuttgart](https://www.uni-stuttgart.de/) and [Ulm University](https://www.uni-ulm.de/). Further [scientific cooperations](/science/partners/#scientific-cooperations) and [research partners](/science/partners/#research-partners) contribute in terms of scientific exchange and tool development.
 
 Current research topics include for example
 
